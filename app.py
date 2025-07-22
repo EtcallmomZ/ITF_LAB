@@ -1,6 +1,6 @@
 """Hello"""
 def main():
   """print"""
-  print("Hello Git""")
+  print("Hello Git")
 
 main()
